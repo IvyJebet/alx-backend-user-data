@@ -1,0 +1,18 @@
+## 0x00. Personal data
+
+## Overview
+This project involves creating a backend system focused on securely handling and processing personally identifiable information (PII). It includes tasks related to data encryption, logging, authentication, and database interactions. The primary aim is to apply best practices in managing sensitive data and implementing security measures.
+
+## Resources
+To complete this project, review the following resources:
+- What Is PII, non-PII, and Personal Data?
+- Logging Documentation
+- bcrypt Package
+- Logging to Files, Setting Levels, and Formatting
+
+## Learning Objectives
+- By the end of this project, you should be able to:
+- Define and give examples of Personally Identifiable Information (PII).
+- Implement a logging filter to obfuscate PII fields.
+- Encrypt passwords and validate them against user input.
+- Authenticate to a database using environment variables.
